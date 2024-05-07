@@ -1,4 +1,4 @@
-# kasaz test react native
+# airbnb clone with react native
 
 ## Setup
 
