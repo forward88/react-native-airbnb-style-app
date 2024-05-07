@@ -44,17 +44,17 @@ This will start a simulator for you.
 ### iOS
 
 <div align="center">
-  <img width=170 src ="https://github.com/reactionic127/kasaz-test-react-native/blob/master/screens/iOS/1.png" />
-  <img width=170 src ="https://github.com/reactionic127/kasaz-test-react-native/blob/master/screens/iOS/2.png"/>
-  <img width=170 src ="https://github.com/reactionic127/kasaz-test-react-native/blob/master/screens/iOS/3.png"/>
-  <img width=170 src ="https://github.com/reactionic127/kasaz-test-react-native/blob/master/screens/iOS/4.png"/>
+  <img width=170 src ="https://github.com/forward88/react-native-airbnb-style-app/blob/master/screens/iOS/1.png" />
+  <img width=170 src ="https://github.com/forward88/react-native-airbnb-style-app/blob/master/screens/iOS/2.png"/>
+  <img width=170 src ="https://github.com/forward88/react-native-airbnb-style-app/blob/master/screens/iOS/3.png"/>
+  <img width=170 src ="https://github.com/forward88/react-native-airbnb-style-app/blob/master/screens/iOS/4.png"/>
 </div>
 
 ### Android
 
 <div align="center">
-  <img width=170 src ="https://github.com/reactionic127/kasaz-test-react-native/blob/master/screens/Android/1.png"/>
-  <img width=170 src ="https://github.com/reactionic127/kasaz-test-react-native/blob/master/screens/Android/2.png"/>
-  <img width=170 src ="https://github.com/reactionic127/kasaz-test-react-native/blob/master/screens/Android/3.png"/>
-  <img width=170 src ="https://github.com/reactionic127/kasaz-test-react-native/blob/master/screens/Android/4.png"/>
+  <img width=170 src ="https://github.com/forward88/react-native-airbnb-style-app/blob/master/screens/Android/1.png"/>
+  <img width=170 src ="https://github.com/forward88/react-native-airbnb-style-app/blob/master/screens/Android/2.png"/>
+  <img width=170 src ="https://github.com/forward88/react-native-airbnb-style-app/blob/master/screens/Android/3.png"/>
+  <img width=170 src ="https://github.com/forward88/react-native-airbnb-style-app/blob/master/screens/Android/4.png"/>
 </div>
